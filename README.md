@@ -70,60 +70,6 @@ Enter the 'FROM' node: 3
 
 Enter the 'TO' node: 1
 
-Enter conversion rate: 1.32
 
-Enter the 'FROM' node: 3
 
-Enter the 'TO' node: 2
 
-Enter conversion rate: 0.76
-
-Enter the 'FROM' node: 2
-
-Enter the 'TO' node: 3
-
-Enter conversion rate: 1.01
-
-Enter the 'FROM' node: 2
-
-Enter the 'TO' node: 0
-
-Enter conversion rate: 0.99
-
-Enter the 'FROM' node: 0
-
-Enter the 'TO' node: 2
-
-Enter conversion rate: 1.33
-
-Enter the 'FROM' node: 2
-
-Enter the 'TO' node: 1
-
-Enter conversion rate: 0.75
-
-Enter the 'FROM' node: 1
-
-Enter the 'TO' node: 2
-
-Enter conversion rate: 0.75
-
-Enter the 'FROM' node: 0
-
-Enter the 'TO' node: 3
-
-Enter conversion rate: 1.32
-
-Enter the 'FROM' node: 3
-
-Enter the 'TO' node: 0
-
-# Sample Output
-
-Starting with 1000 in 2
-2 to 3 at 0.760000 = 760.000000
-3 to 2 at 1.320000 = 1003.200000
-
-Starting with 1003 in 3
-3 to 2 at 1.320000 = 1324.224000
-2 to 3 at 0.760000 = 1006.410240
